@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá! Eu sou Kauã Silveira! 👋
 
 - 🔭 Eu, no momento, não trabalho.
 - 🌱 Estudo diferentes linguagens de programação.
