@@ -1,15 +1,10 @@
 ## Olá! Eu sou Kauã Silveira! 👋
 
-  Ainda não possuo experiência na área e busco oportunidades de poder engressar com aprendizado e disciplina.
+Sou um novato na área de TI e busco conseguir uma oportunidade de trabalhar em uma empresa da área que estou estudando e aprendendo. 💻
 
-- 🔭 Eu, no momento, não trabalho.
-- 🌱 Estudo diferentes linguagens de programação.
-- 👯 Procuro colaborar no máximo possível, principalmente no Front.
-- 🤔 Procuro ajuda em conseguir fluência na programação.
-- 💬 Me pergunte sobre: 
-- 📫 Você pode entrar em contato comigo por: kauarssilveira@gmail.com
-- 😄 Pronomes: Ele/Dele
-- ⚡ Fato divertido: Considero ter uma criatividade muito boa.
+Possuo Curso Técnico completo em TI na QI Faculdade & Escola Técnica. Explorando temas como programação, analise de sistemas, banco de dados, manutenção de computadores e aplicações mobile. Atualmente estou intensificando o conhecimento com o Técnologo em Gestão de Técnologia da Informação na Uninter Centro Universitário Internacional.
+
+Sempre aprendendo mais!!
 
 <div style= "display:inline_block">
   <img src = "https://github.com/user-attachments/assets/d1ee7e08-9ee9-4aa3-9353-fe427d11cdf0" width = "40">
